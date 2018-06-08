@@ -1,2 +1,2 @@
-#PAYROLL SYSTEM
+PAYROLL SYSTEM
 Made using C++
