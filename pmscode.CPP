@@ -112,7 +112,7 @@ void MENU :: MAIN_MENU(void)
 	gotoxy(30,18) ;
 	cout <<"ENTER YOUR CHOICE :" ;
 	gotoxy(5,23);
-	cout<<"GUIDED BY - Yogesh N                 MADE BY - Pravesh Kasaundhan & Swathi S";
+	cout<<"GUIDED BY - Yogesh N                            MADE BY - Pravesh Kasaundhan";
 
 
 	ch = getch() ;
